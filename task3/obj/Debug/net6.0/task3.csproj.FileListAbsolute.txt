@@ -1,0 +1,15 @@
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/bin/Debug/net6.0/task3
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/bin/Debug/net6.0/task3.deps.json
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/bin/Debug/net6.0/task3.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/bin/Debug/net6.0/task3.pdb
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/refint/task3.dll
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.pdb
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+/Users/max/Documents/gb/C#_FirstTest/hwCsharp5/task3/obj/Debug/net6.0/ref/task3.dll
