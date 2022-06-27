@@ -1,12 +1,12 @@
 ﻿// Задача 2: Задайте одномерный массив, заполненный случайными числами.
 // Найдите сумму элементов, стоящих на нечётных позициях.
 
-int [] InitArray(int ar, int min, int max)
+int [] InitArray(int size, int min, int max)
 {
-    int[] array = new int[ar];
+    int[] array = new int[size];
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(min, max + 1);
+        array[i] = new Random().Next(min, max);
     }
     
     return array;

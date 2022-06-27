@@ -1,12 +1,12 @@
 ﻿// Задача 1: Задайте массив заполненный случайными положительными трёхзначными числами.
 // Напишите программу, которая покажет количество чётных чисел
 
-int[] InitArray(int ar, int min, int max)
+int[] InitArray(int size, int min, int max)
 {
-    int[] array = new int[ar];
+    int[] array = new int[size];
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(min, max +1);
+        array[i] = new Random().Next(min, max);
     }
     
     return array;
@@ -35,7 +35,7 @@ int CountEvenNumbers(int[] array)
     return count;
 }
 
-int[] myArray = InitArray(10, 100, 1000);
-PrintArray(myArray);
-int count = CountEvenNumbers(myArray);
+int[] array = InitArray(10, 100, 1000);
+PrintArray(array);
+int count = CountEvenNumbers(array);
 Console.WriteLine($"Even numbers count: {count}");

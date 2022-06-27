@@ -25,7 +25,6 @@ double DifferenceMinMax(double[] array)
 {
     double min = array[0];
     double max = array[0];
-    double dif = array[0];
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i] > max)
@@ -38,8 +37,7 @@ double DifferenceMinMax(double[] array)
         }
     }
 
-    dif = max - min;
-    return dif;
+    return max - min;
 }
 
 double[] myArray = InitArray(10, 10, 100);
